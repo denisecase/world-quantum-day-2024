@@ -3,6 +3,7 @@
 World Quantum Day (WQD) takes place every April 14 to raise public awareness and understanding of quantum science and technology. 
 
 - [World Quantum Day](https://worldquantumday.org/)
+- [Middle School Camp for 6th to 8th graders](https://www.qubitbyqubit.org/middle-school-camp)
 
 ## Privacy and Security
 
@@ -41,8 +42,12 @@ What should students or professionals interested in the new possibilities be lea
 See:
 
 - IBM Qiskit at <https://www.ibm.com/quantum/qiskit>
-- Cirq - a Python library for working with Qubits at <https://github.com/quantumlib/Cirq>
 - Google QuantumAI at <https://quantumai.google/>
+- Azure Quantum at <https://quantum.microsoft.com/>
+- Intel [Quantum Computing](https://www.intel.com/content/www/us/en/research/quantum-computing.html) and [Software Development Kit (SDK)](https://www.intel.com/content/www/us/en/developer/tools/quantum-sdk/overview.html)
+- [Amazon Quantum Computing](https://aws.amazon.com/what-is/quantum-computing/) and [Bracket](https://aws.amazon.com/braket/)
+- D-Wave at <https://www.dwavesys.com/>
+- Cirq - a Python library for working with Qubits at <https://github.com/quantumlib/Cirq>
 
 ## Participate
 
