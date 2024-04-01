@@ -3,7 +3,7 @@
 World Quantum Day (WQD) takes place every April 14 to raise public awareness and understanding of quantum science and technology. 
 
 - [World Quantum Day](https://worldquantumday.org/)
-- [Middle School Quantum Computing Summer Camp (virtual, $595) for 6th to 8th graders](https://www.qubitbyqubit.org/middle-school-camp)
+- [Middle School Quantum Computing Summer Camp (virtual, $495) for 6th to 8th graders](https://www.qubitbyqubit.org/middle-school-camp)
 
 ## Privacy and Security
 
