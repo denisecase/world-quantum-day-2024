@@ -42,6 +42,7 @@ See:
 
 - IBM Qiskit at <https://www.ibm.com/quantum/qiskit>
 - Cirq - a Python library for working with Qubits at <https://github.com/quantumlib/Cirq>
+- Google QuantumAI at <https://quantumai.google/>
 
 ## Participate
 
