@@ -41,7 +41,8 @@ What should students or professionals interested in the new possibilities be lea
 See:
 
 - IBM Qiskit at <https://www.ibm.com/quantum/qiskit>
-
 - Cirq - a Python library for working with Qubits at <https://github.com/quantumlib/Cirq>
 
+## Participate
 
+- Add questions to [this document](https://github.com/denisecase/world-quantum-day-2024) or the associated [discussions](https://github.com/denisecase/world-quantum-day-2024/discussions). 
