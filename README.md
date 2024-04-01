@@ -49,6 +49,12 @@ See:
 - D-Wave at <https://www.dwavesys.com/>
 - Cirq - a Python library for working with Qubits at <https://github.com/quantumlib/Cirq>
 
+## Illustration
+
+From D-Wave at <https://www.dwavesys.com/learn/quantum-computing/>:
+
+![D-Wave Quantum Computation](images/DWave-QuantumComputation.png)
+
 ## Participate
 
 - Add questions to [this document](https://github.com/denisecase/world-quantum-day-2024) or the associated [discussions](https://github.com/denisecase/world-quantum-day-2024/discussions). 
