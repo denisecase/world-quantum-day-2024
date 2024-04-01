@@ -2,6 +2,8 @@
 
 World Quantum Day (WQD) takes place every April 14 to raise public awareness and understanding of quantum science and technology. 
 
+- [World Quantum Day](https://worldquantumday.org/)
+
 ## Privacy and Security
 
 Current encryption methods often use calculations that are easy to perform but very hard to reverse - such as finding the prime factors of large numbers. It is said that Quantum Computing won't break passwords - it'll break encryption by making these "hard to reverse'' tasks easy. How might this affect us in terms of passwords, privacy, and security? Are new cryptographic techniques being developed in anticipation of quantum computing?
