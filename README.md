@@ -26,7 +26,7 @@ Will there be a home Quantum Personal Computer?  What's a likely timeline for qu
 
 ## Moore's Law
 
-Since 1965, Moore's Law suggests processing power doubles approximately every 18-24 months. Do you think this trend hold - or accelerate - or will we see a "quantum leap" in general processing power?
+Since 1965, Moore's Law suggests processing power doubles approximately every 18-24 months. Do you think this trend will hold - or accelerate - or will we see a "quantum leap" in general processing power?
 
 ## Complex Problems
 
