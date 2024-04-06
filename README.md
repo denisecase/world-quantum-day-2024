@@ -5,6 +5,24 @@ World Quantum Day (WQD) takes place every April 14 to raise public awareness and
 - [World Quantum Day](https://worldquantumday.org/)
 - [Middle School Quantum Computing Summer Camp (virtual, $495) for 6th to 8th graders](https://www.qubitbyqubit.org/middle-school-camp)
 
+## Invited Talk - Northwest Missouri State University
+
+Dr. Saurabh Maiti will be the quantum scientist visiting your class! 
+The visit will be geared towards Quantum in the Real World as requested. 
+Your virtual visit takes place April 14 2024 as part of the celebration of World Quantum Day. 
+
+- Dr. Saurabh Maiti
+- Assistant Professor
+- Department of Physics
+- Concordia University
+- Web: <http://www.concordia.ca/faculty/saurabh-maiti.html>
+
+Dr. Maiti earned his PhD in Physics in 2013 from the University of Wisconsin, Madison, and 
+his Bachelors in Electronics and Electrical Communications Engg from Indian Institute of Technology, India.
+We was awarded the Dirac Postdoctoral Prize at the National High Magnetic Field Laboratory in Tallahassee.
+He served as a postdoctoral researcher at the University of Florida in Gainesville and at the University of Massachusetts in Amherst.
+His research at Concordia University in Canada is in theoretical condensed matter physics and quantum phenomena in 2-dimensional materials for application in quantum technology.
+
 ## Privacy and Security
 
 Current encryption methods often use calculations that are easy to perform but very hard to reverse - such as finding the prime factors of large numbers. It is said that Quantum Computing won't break passwords - it'll break encryption by making these "hard to reverse'' tasks easy. How might this affect us in terms of passwords, privacy, and security? Are new cryptographic techniques being developed in anticipation of quantum computing?
