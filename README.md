@@ -8,8 +8,8 @@ World Quantum Day (WQD) takes place every April 14 to raise public awareness and
 ## Invited Talk - Northwest Missouri State University
 
 Dr. Saurabh Maiti will be the quantum scientist visiting your class! 
-The visit will be geared towards Quantum in the Real World as requested. 
-Your virtual visit takes place April 14 2024 as part of the celebration of World Quantum Day. 
+The visit will be geared towards Quantum Computing in the Real World. 
+The virtual visit takes place April 14 2024 as part of the celebration of World Quantum Day. 
 
 - Dr. Saurabh Maiti
 - Assistant Professor
@@ -21,7 +21,7 @@ Dr. Maiti earned his PhD in Physics in 2013 from the University of Wisconsin, Ma
 his Bachelors in Electronics and Electrical Communications Engg from Indian Institute of Technology, India.
 We was awarded the Dirac Postdoctoral Prize at the National High Magnetic Field Laboratory in Tallahassee.
 He served as a postdoctoral researcher at the University of Florida in Gainesville and at the University of Massachusetts in Amherst.
-His research at Concordia University in Canada is in theoretical condensed matter physics and quantum phenomena in 2-dimensional materials for application in quantum technology.
+His research at Concordia University in Montreal, Quebec, Canada is in theoretical condensed matter physics and quantum phenomena in 2-dimensional materials for application in quantum technology.
 
 ## Privacy and Security
 
