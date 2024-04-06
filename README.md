@@ -1,5 +1,7 @@
 # World Quantum Day (WQD) 2024
 
+![WQD](https://worldquantumday.org/wp-content/uploads/2023/03/logo_WQD_black.png)
+
 World Quantum Day (WQD) takes place every April 14 to raise public awareness and understanding of quantum science and technology. 
 
 - [World Quantum Day](https://worldquantumday.org/)
